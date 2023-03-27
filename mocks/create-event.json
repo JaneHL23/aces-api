@@ -1,0 +1,8 @@
+{
+  "body": "{\"title\":\"project 879\",\"description\":\"--fasdfadsf--\",\"status\":\"1\",\"image\":\"again.jpg\"}",
+  "requestContext": {
+    "identity": {
+      "cognitoIdentityId": "cognito-identity1345"
+    }
+  }
+}

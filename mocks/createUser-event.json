@@ -1,0 +1,13 @@
+{
+  "userName": "222johnnysmith",
+  "request": {
+    "userAttributes": {
+      "email": "1exampleuser@example.com",
+      "email_verified": true,
+      "custom:firstname": "1Johnny",
+      "custom:lastname": "1Smith",
+      "sub": "abcdevfefe-1232132-cofeve"
+    }
+  },
+  "response": {}
+}
